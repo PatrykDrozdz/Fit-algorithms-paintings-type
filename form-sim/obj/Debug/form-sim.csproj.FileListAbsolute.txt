@@ -1,0 +1,18 @@
+C:\Users\student\Desktop\form-sim\bin\Debug\form-sim.exe.config
+C:\Users\student\Desktop\form-sim\bin\Debug\form-sim.exe
+C:\Users\student\Desktop\form-sim\bin\Debug\form-sim.pdb
+C:\Users\student\Desktop\form-sim\obj\Debug\form-sim.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\form-sim\obj\Debug\form_sim.Form1.resources
+C:\Users\student\Desktop\form-sim\obj\Debug\form_sim.Properties.Resources.resources
+C:\Users\student\Desktop\form-sim\obj\Debug\form-sim.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\form-sim\obj\Debug\form-sim.exe
+C:\Users\student\Desktop\form-sim\obj\Debug\form-sim.pdb
+E:\Skróty\programowanie bierzące\algorytmy\form-sim\bin\Debug\form-sim.exe.config
+E:\Skróty\programowanie bierzące\algorytmy\form-sim\obj\Debug\form-sim.exe
+E:\Skróty\programowanie bierzące\algorytmy\form-sim\obj\Debug\form-sim.pdb
+E:\Skróty\programowanie bierzące\algorytmy\form-sim\bin\Debug\form-sim.exe
+E:\Skróty\programowanie bierzące\algorytmy\form-sim\bin\Debug\form-sim.pdb
+E:\Skróty\programowanie bierzące\algorytmy\form-sim\obj\Debug\form-sim.csprojResolveAssemblyReference.cache
+E:\Skróty\programowanie bierzące\algorytmy\form-sim\obj\Debug\form_sim.Form1.resources
+E:\Skróty\programowanie bierzące\algorytmy\form-sim\obj\Debug\form_sim.Properties.Resources.resources
+E:\Skróty\programowanie bierzące\algorytmy\form-sim\obj\Debug\form-sim.csproj.GenerateResource.Cache
